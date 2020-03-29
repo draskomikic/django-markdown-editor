@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68b7d8f9-b477-4115-bf51-980ca904ff6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/martor_demo/app/testPosts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/martor_demo/app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/martor_demo/app/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/martor_demo/martor_demo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/martor_demo/martor_demo/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/martor_demo/app/testPosts.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -37,11 +38,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/martor_demo/martor_demo/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="133" selection-start-line="133" selection-end-line="133" />
+            <state relative-caret-position="193">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/martor_demo/app/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,6 +82,7 @@
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/martor_demo/app/testPosts.py" />
         <option value="$PROJECT_DIR$/martor_demo/martor_demo/settings.py" />
+        <option value="$PROJECT_DIR$/martor_demo/app/admin.py" />
       </list>
     </option>
   </component>
@@ -109,6 +123,12 @@
               <item name="django-markdown-editor" type="b2602c69:ProjectViewProjectNode" />
               <item name="django-markdown-editor" type="462c0819:PsiDirectoryNode" />
               <item name="martor_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-markdown-editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-markdown-editor" type="462c0819:PsiDirectoryNode" />
+              <item name="martor_demo" type="462c0819:PsiDirectoryNode" />
               <item name="martor_demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -119,6 +139,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -171,7 +192,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585501159323</updated>
-      <workItem from="1585501161001" duration="795000" />
+      <workItem from="1585501161001" duration="1371000" />
     </task>
     <servers />
   </component>
@@ -181,7 +202,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="795000" />
+    <option name="totallyTimeSpent" value="1371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-337" y="-1417" width="2560" height="1110" extended-state="0" />
@@ -230,7 +251,7 @@
     <entry file="file://$PROJECT_DIR$/martor_demo/app/testPosts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
@@ -242,8 +263,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/martor_demo/martor_demo/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        <state relative-caret-position="193">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/martor_demo/app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
